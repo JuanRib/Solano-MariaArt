@@ -1,0 +1,12 @@
+.fonte-titulo {
+    font-family: 'Lemonada', cursive;
+}
+
+.cor-de-titulos{
+    color: firebrick !important;
+}
+
+.imagens-carrossel{
+    object-fit: cover;
+    height: 400px;
+}
